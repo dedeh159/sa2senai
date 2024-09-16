@@ -1,4 +1,4 @@
-public class PrimeiraQuestão {
+public class PrimeiraQuestao {
     public static void main(String[] args) {
 
          /*1. Dada a lista L = [5, 7, 2, 9, 4, 1, 3], escreva um programa que
@@ -63,5 +63,5 @@ public class PrimeiraQuestão {
 }
 
 
-
+ 
 
